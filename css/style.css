@@ -1,0 +1,30 @@
+.navbar{
+    background-color: rgb(102, 235, 102);
+}
+
+.margin{
+    margin-top: 20px;
+}
+
+.mg-bottom{
+    margin-bottom: 8px;
+}
+
+
+#quemsomos{
+    color: white;
+    background-color: rgb(119, 129, 106);
+    padding: 15PX;
+}
+
+#servicos{
+    color: white;
+    background-color: rgb(119, 129, 106);
+    margin-bottom: 5px;
+}
+
+.bg-footer{
+    color: white;
+    background-color: rgb(12, 11, 11);
+    padding-bottom: 2px;
+}
